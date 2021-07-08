@@ -11,4 +11,4 @@ Naive Bayes,
 SVM,
 KNN,
 Descriptive Analysis,
-Point chart,
+Point chart.
